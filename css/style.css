@@ -301,6 +301,8 @@ img {
 
 .footer .logo {
 	margin-bottom: 16px;
+	padding-top: 0;
+	padding-bottom: 0;
 	display: inline-block;
 }
 
